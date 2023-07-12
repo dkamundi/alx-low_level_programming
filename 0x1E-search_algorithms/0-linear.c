@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include "search_algos.h"
+
 /**
  * linear_search - searches for a match in an array using lineear serch algo
  *
